@@ -15,15 +15,15 @@ Designed and stimulated Current Mirror Circuit using LTspice.
 
 
 ## Circuit Schematic 
-![circuit](current_mirrror_circuit.png)
+![circuit](current_mirror_circuit.png)
 
 
 
 ## Output Waveforms
 
-_ ![Voltage Characteristics](current_mirror_circuit_voltage_char.png)
-_ ![Current Characteristics](current_mirror_circuit_current_char.png)
-_ ![Overall Output Graph](current_mirror_circuit_output_graph.png)
+![Voltage Characteristics](current_mirror_circuit_voltage_char.png)
+![Current Characteristics](current_mirror_circuit_current_char.png)
+![Overall Output Graph](current_mirror_circuit_output_graph.png)
 
 
 
