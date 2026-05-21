@@ -11,7 +11,7 @@ Designed and stimulated Current Mirror Circuit using LTspice.
 - Analog CMOS circuit fundamentals
 - MOSFET biasing 
 - Cuurent Mirroring
-- 
+  
 
 
 ## Circuit Schematic 
@@ -21,9 +21,9 @@ Designed and stimulated Current Mirror Circuit using LTspice.
 
 ## Output Waveforms
 
-![Voltage Characteristics](current_mirror_circuit_voltage_char.png)
-![Current Characteristics](current_mirror_circuit_current_char.png)
-![Overall Output Graph](current_mirror_circuit_output_graph.png)
+_ ![Voltage Characteristics](current_mirror_circuit_voltage_char.png)
+_ ![Current Characteristics](current_mirror_circuit_current_char.png)
+_ ![Overall Output Graph](current_mirror_circuit_output_graph.png)
 
 
 
